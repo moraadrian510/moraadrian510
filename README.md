@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
-<h3 align="center">I'm new to the world of software engineering, but I'm already a passionate fullstack developer based in the vibrant San Francisco Bay Area</h3>
+<h2 align="center">I'm new to the world of software engineering, but I'm already a passionate fullstack developer based in the vibrant San Francisco Bay Area</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moraadrian510&label=Profile%20views&color=0e75b6&style=flat" alt="moraadrian510" /> </p>
 
