@@ -1,3 +1,4 @@
+<img src="https://thumbs.dreamstime.com/z/san-francisco-skyline-color-buildings-blue-sky-vector-illustration-business-travel-tourism-concept-modern-90263616.jpg?w=992" alt="sfImage" height="300" align="right"/> </a> 
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h4 align="center">I'm new to the world of software engineering, but I'm already a passionate fullstack developer based in the vibrant San Francisco Bay Area</h4>
 
